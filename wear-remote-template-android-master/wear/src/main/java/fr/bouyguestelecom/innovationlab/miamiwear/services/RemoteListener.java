@@ -18,7 +18,7 @@ import com.google.android.gms.wearable.WearableListenerService;
 import fr.bouyguestelecom.innovationlab.miamiwear.utils.Constants;
 
 /**
- * Created by InnovationLab on 20/08/2014 for Miami Wear
+ * Created by Thomas Rieux-laucat on 20/08/2014 for Miami Wear
  * Permet d'envoyer les code touches de la télécommande
  */
 public class RemoteListener extends WearableListenerService
